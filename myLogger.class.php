@@ -10,4 +10,4 @@ class MyLogger
 }
 
 $logger = new MyLogger();
-$logger->log("hello world!!");
+$logger->log("hello world!");
